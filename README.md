@@ -4,7 +4,7 @@
 
 执行命令：
 
-docker run -d --name baidupcs -p 5299:5299 -v /your/downloads:/downloads -v /your/config:/root/.config/BaiduPCS-Go oldiy/baidupcs:latest
+docker run -d --name baidupcs -p 5299:5299 -v /your/downloads:/downloads -v /your/config:/root/.config/BaiduPCS-Go pqguanyinli/baidupcs-web:latest
 
 #### 在公众号上用心写了一篇介绍，让大家更好地了解和使用BaiduPCS-Go Web版
 https://w.url.cn/s/AdjX09Y
