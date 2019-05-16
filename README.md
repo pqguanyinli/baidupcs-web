@@ -39,9 +39,3 @@ https://w.url.cn/s/AdjX09Y
 ### 对于老版登陆后没有内容, 只显示 "No permission to do this operation"
 登陆后在右上角的设置里面把appid设置为```266719```就可以正常使用了
 ![avatar](http://oozw0y5q9.bkt.clouddn.com/20180918142033.png)
-
-Enjoy, 如果觉得好用, 请不要吝啬 ```star``` 或者 ```follow``` 哦, 或者顺便 ```buy me a coffee```
-
-|支付宝|微信|
-|:-----:|:-----:|
-|<img width="152" src="https://i.loli.net/2018/09/11/5b9762ccc140f.png">|<img width="150" src="https://i.loli.net/2018/09/11/5b9762ad8fcb3.png"/>|
